@@ -11,6 +11,8 @@ int main()
 {
     cout << "Hello, World!";
     return 0;
+    cout << "I Need Help and Learn Programming!";
+    return 0;
 }
 ```
 
