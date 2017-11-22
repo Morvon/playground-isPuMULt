@@ -9,9 +9,9 @@ using namespace std;
 
 int main() 
 {
-    cout << "Hello, World!";
+    cout << "Hello, World!" << endl
     return 0;
-    cout << "I Need Help and Learn Programming!";
+    cout << "I Need Help and Learn Programming!" << endl
     return 0;
 }
 ```
